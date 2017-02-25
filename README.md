@@ -2,7 +2,10 @@
 
 Quick test to try cross-fading <audio> tags on loop. Seems to be pretty easy to
 accomplish, but the <audio> tags have a bunch of issues, e.g. I couldn't get
-onload events to trigger, nor could I get them to play a gapless loop.
+onload events to trigger, nor could I get them to play a gapless loop properly.
+
+The only way to really make "gapless" work properly is to use a tool like 
+Audacity and it's repeat -function to make a long enough audio file.
 
 Feel free to use this code however you wish.
 
