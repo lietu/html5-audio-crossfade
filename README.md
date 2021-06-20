@@ -29,3 +29,9 @@ Feel free to use this code however you wish.
 ## Example video
 
 [https://youtu.be/B6rTO3VRis8](https://youtu.be/B6rTO3VRis8)
+        
+        
+# Financial support
+
+This project has been made possible thanks to [Cocreators](https://cocreators.ee) and [Lietu](https://lietu.net). You can help us continue our open source work by supporting us on [Buy me a coffee](https://www.buymeacoffee.com/cocreators).
+
